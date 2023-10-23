@@ -13,4 +13,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: Page avec image
+  target: "/page-avec-image/"
+  kind: page
+  children: []
 
