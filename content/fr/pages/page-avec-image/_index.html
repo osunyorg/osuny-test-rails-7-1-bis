@@ -4,7 +4,8 @@ breadcrumb_title: "Page avec image"
 breadcrumbs:
   - title: "Accueil"
     path: "/"
-  - title: "Page avec image"
+  - title: >-
+      Page avec image
 url: "/page-avec-image/"
 slug: "page-avec-image"
 
@@ -47,12 +48,13 @@ contents:
     title: >-
       Titre 1
     position: 1
-    level: 2
+    rank: 2
   - kind: block
     template: chapter
     title: >-
       Lorem Ipsum
-    position: 1
+    ranks:
+      self: 3
     data:
       layout: no_background
       text: >-
@@ -77,7 +79,8 @@ contents:
     template: image
     title: >-
       Hermès
-    position: 2
+    ranks:
+      self: 3
     data:
       text: >-
         
@@ -99,7 +102,7 @@ contents:
     title: >-
       Titre 2
     position: 2
-    level: 2
+    rank: 2
 
 
 ---
