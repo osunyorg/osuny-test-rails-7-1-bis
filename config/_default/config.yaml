@@ -3,6 +3,7 @@ paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
 params:
+  keycdn: https://osunystaging-1b4da.kxcdn.com
   summary:
     position: hero
   search:
