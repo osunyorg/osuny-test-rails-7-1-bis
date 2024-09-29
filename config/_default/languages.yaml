@@ -5,7 +5,7 @@ fr:
     Test Rails 7.1 bis
   contentDir: content/fr
   languageCode: fr
-  languageName: French
+  languageName: Français
   params:
     social:
   permalinks:
