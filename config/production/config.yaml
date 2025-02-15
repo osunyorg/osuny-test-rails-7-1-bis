@@ -2,6 +2,11 @@
 
 baseURL: https://test-rails-7-1-bis.demo.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: de90ffee-a022-47d1-8a3a-3f1649aea7cc
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
